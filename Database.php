@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: kwabenatu
- * Date: 06/05/19
- * Time: 12:27
- */
+
 
 class Database {
 	//db params
